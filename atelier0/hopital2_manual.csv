@@ -1,0 +1,7 @@
+Grossesses,Glucose,PressionSanguine,EpaisseurPeau,Insuline,IMC,FonctionPedigreeDiabete,DateNaissance,Diagnostic,Poids,Taille,Pays
+9,134.0,74.0,3.3000000000000003,60.0 mu U/ml,25.9,0.46,1943,0,74.01,169.04,India
+9,120.0,72.0,2.2,56.0 mu U/ml,20.8,0.733,1976,0,51.96,158.05,India
+2,197.0,70.0,45.0,543.0 mu U/ml,30.5,0.158,1971,1,77.52,159.43,India
+0,124.0,56.0,1.3,105.0 mu U/ml,21.8,0.452,2003,0,76.13,186.87,India
+0,74.0,52.0,1.0,36.0 mu U/ml,27.8,0.269,2002,0,66.17,154.29,USA
+0,97.0,64.0,3.6,100.0 mu U/ml,36.8,0.6,1999,0,104.18,168.25,France
